@@ -1,0 +1,19 @@
+{
+  "name": "projeto-despesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movimentacoes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcleandro/controle-de-despesas.git"
+  },
+  "author": "Leandro Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcleandro/controle-de-despesas/issues"
+  },
+  "homepage": "https://github.com/rcleandro/controle-de-despesas#readme"
+}
